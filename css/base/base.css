@@ -1,0 +1,18 @@
+body {
+    background-color: #191919;
+    margin-top: 35px;
+    margin-right: 50px;
+    margin-left: 50px;
+
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+}
+
+.home {
+    color: #118DA8;
+}
+
+a {
+    width: max-content;
+    color: #FFFFFF;
+}

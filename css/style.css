@@ -1,0 +1,33 @@
+.header {
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: space-between;
+}
+
+.nav {
+    gap: 30px;
+    display: flex;
+    justify-self: end;
+
+    font-size: 17px;
+}
+
+.bottom-header {
+    display: grid;
+    grid-auto-flow: column;
+    align-items: center;
+}
+
+.guy {
+    max-width: 1000px;
+    height: fit-content;
+    margin-top: 40px;
+    margin-left: 23px;
+    border-radius: 12px;
+}
+
+.text {
+    color: white;
+    font-size: 100px;
+}
