@@ -137,3 +137,37 @@
 .heading-episode {
     font-size: 90px;
 }
+
+.jacob {
+    display: flex;
+    justify-content: space-between;
+
+    margin-top: 100px;
+    margin-left: 23px;
+}
+
+.heading-jacob {
+    font-size: 120px;
+}
+
+.arrow {
+    width: 150px;
+}
+
+.bottom-arrow {
+    color: #118DA8;
+    font-size: 25px;
+}
+
+.text-jacob {
+    opacity: 70%;
+    font-size: 22px;
+}
+
+.jacob-text {
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    order: -1;
+}
