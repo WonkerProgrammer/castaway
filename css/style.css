@@ -86,8 +86,8 @@
 .img-cards {
     order: -1;
 
-    width: min-content;
-    height: 550px;
+    box-sizing: border-box;
+    width: 500px;
 }
 
 .cards-elements{
@@ -104,7 +104,7 @@
 }
 
 .bottom-name-cards {
-    gap: 20px;
+    gap: 30px;
     display: flex;
     flex-direction: column;
 }
